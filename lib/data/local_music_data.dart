@@ -7,7 +7,6 @@ List<PlayingSong> localSongs = [
     artist: 'SZA',
     imageUrl:
         'https://i.scdn.co/image/ab67616d0000b2733097b1375ab17ae5bf302a0a',
-    lyrics: '這是歌曲的歌詞',
     previewUrl: 'assets/audio/GoodDays.mp3',
   ),
   const PlayingSong(
@@ -16,7 +15,6 @@ List<PlayingSong> localSongs = [
     artist: 'Kendrick Lamar, SZA',
     imageUrl:
         'https://i.scdn.co/image/ab67616d0000b273a8f9bf75a4f4ba99439800b3',
-    lyrics: '這是歌曲的歌詞',
     previewUrl: 'assets/audio/AllTheStars.mp3', // 確保檔案存在於 assets/audio/
   ),
   const PlayingSong(
@@ -25,7 +23,6 @@ List<PlayingSong> localSongs = [
     artist: 'SZA',
     imageUrl:
         'https://cdn-images.dzcdn.net/images/cover/e4a1c9d6f882cd797cb85413382427ae/1900x1900-000000-80-0-0.jpg',
-    lyrics: '這是歌曲的歌詞',
     previewUrl: 'assets/audio/BMF.mp3', // 添加音訊文件路徑
   ),
   const PlayingSong(
@@ -34,7 +31,6 @@ List<PlayingSong> localSongs = [
     artist: 'Kendrick Lamar, SZA',
     imageUrl:
         'https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58',
-    lyrics: '這是歌曲的歌詞',
     previewUrl: 'assets/audio/luther.mp3', // 添加音訊文件路徑
   ),
   const PlayingSong(
@@ -43,7 +39,6 @@ List<PlayingSong> localSongs = [
     artist: 'SZA',
     imageUrl:
         'https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1',
-    lyrics: '這是歌曲的歌詞',
     previewUrl: 'assets/audio/Snooze.mp3', // 添加音訊文件路徑
   ),
 ];
